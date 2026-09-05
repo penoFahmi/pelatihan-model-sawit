@@ -18,6 +18,7 @@ __pycache__/
 # Dataset dan Output Model (diabaikan agar tidak memberatkan repository)
 dataset_raw/
 dataset_split/
+dataset_split_v2/
 dataset/
 *.tflite
 *.h5
