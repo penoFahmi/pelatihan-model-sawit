@@ -1,0 +1,10 @@
+jupyterlab
+tensorflow
+albumentations
+opencv-python
+split-folders
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn

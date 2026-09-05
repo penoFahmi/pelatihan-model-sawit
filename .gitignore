@@ -1,0 +1,31 @@
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+sawit_env/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Dataset dan Output Model (diabaikan agar tidak memberatkan repository)
+dataset_raw/
+dataset_split/
+dataset/
+*.tflite
+*.h5
+*.hdf5
+*.keras
+logs/
+models/
+
+# OS generated files
+.DS_Store
+Thumbs.db
